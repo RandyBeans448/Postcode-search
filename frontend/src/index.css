@@ -1,0 +1,116 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@keyframes fadeInOpacity {
+	0% {
+		opacity: 0;
+   
+	}
+	100% {
+		opacity: 1;
+  
+	}
+}
+
+.title {
+  font-weight: lighter;
+  font-size: 3em;
+}
+
+.container {
+  border: solid;
+  border-width: 1px;
+  border-color: #3e64ff;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  padding: 5vh;
+  width: 50vh;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  animation-name: fadeInOpacity;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-in;
+	animation-duration: 2s;
+}
+
+.input {
+  padding: 2vh;
+  width: 30vh;
+  border: solid;
+  border-width: 1px;
+  border-color: #3e64ff;
+  margin: 2px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.input-box {
+  margin: 2vh;
+}
+
+.button {
+  height: 6vh;
+  border: solid;
+  background-color: transparent;
+  border-width: 2px;
+  color: #3e64ff;
+  border-color: #3e64ff;
+  border-width: 1px;
+  cursor: pointer;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.button:hover {
+  background-color: #3e64ff;
+  color: white;
+}
+
+.results-box {
+  border: solid;
+  border-width: 1px;
+  border-color: #3e64ff;
+  min-height: 10vh;
+  max-height: 10vh;
+  width: 41vh;
+  margin: 0 auto;
+  overflow: scroll;
+  text-align: left;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.results-text {
+  margin-left: 5px;
+  font-size: 1.5vh;
+}
+
+.error {
+  color: red;
+}
+
+@media only screen and (min-width: 375px) {
+  /* For tablets: */
+
+
+}
+
+@media only screen and (min-width: 600px) {
+  /* For tablets: */
+
+}
+
+@media only screen and (min-width: 600px) {
+  /* For tablets: */
+
+}
