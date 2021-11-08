@@ -1,0 +1,185 @@
+/Users/dominicbishop/Desktop/C# Cook API/obj/Debug/net5.0/C# Cook API.csproj.AssemblyReference.cache
+/Users/dominicbishop/Desktop/C# Cook API/obj/Debug/net5.0/C# Cook API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominicbishop/Desktop/C# Cook API/obj/Debug/net5.0/C# Cook API.AssemblyInfoInputs.cache
+/Users/dominicbishop/Desktop/C# Cook API/obj/Debug/net5.0/C# Cook API.AssemblyInfo.cs
+/Users/dominicbishop/Desktop/C# Cook API/obj/Debug/net5.0/C# Cook API.csproj.CoreCompileInputs.cache
+/Users/dominicbishop/Desktop/C# Cook API/obj/Debug/net5.0/C# Cook API.MvcApplicationPartsAssemblyInfo.cs
+/Users/dominicbishop/Desktop/C# Cook API/obj/Debug/net5.0/C# Cook API.MvcApplicationPartsAssemblyInfo.cache
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/appsettings.Development.json
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/appsettings.json
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/C# Cook API.deps.json
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/C# Cook API.runtimeconfig.json
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/C# Cook API.runtimeconfig.dev.json
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/C# Cook API.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/ref/C# Cook API.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/C# Cook API.pdb
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/dominicbishop/Desktop/C# Cook API/obj/Debug/net5.0/staticwebassets/C# Cook API.StaticWebAssets.Manifest.cache
+/Users/dominicbishop/Desktop/C# Cook API/obj/Debug/net5.0/staticwebassets/C# Cook API.StaticWebAssets.xml
+/Users/dominicbishop/Desktop/C# Cook API/obj/Debug/net5.0/scopedcss/bundle/C# Cook API.styles.css
+/Users/dominicbishop/Desktop/C# Cook API/obj/Debug/net5.0/C# Cook API.RazorTargetAssemblyInfo.cache
+/Users/dominicbishop/Desktop/C# Cook API/obj/Debug/net5.0/C# Cook API.csproj.CopyComplete
+/Users/dominicbishop/Desktop/C# Cook API/obj/Debug/net5.0/C# Cook API.dll
+/Users/dominicbishop/Desktop/C# Cook API/obj/Debug/net5.0/ref/C# Cook API.dll
+/Users/dominicbishop/Desktop/C# Cook API/obj/Debug/net5.0/C# Cook API.pdb
+/Users/dominicbishop/Desktop/C# Cook API/obj/Debug/net5.0/C# Cook API.genruntimeconfig.cache
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/Humanizer.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/dominicbishop/Desktop/C# Cook API/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/appsettings.Development.json
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/appsettings.json
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/C# Cook API.deps.json
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/C# Cook API.runtimeconfig.json
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/C# Cook API.runtimeconfig.dev.json
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/C# Cook API.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/ref/C# Cook API.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/C# Cook API.pdb
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/Humanizer.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/obj/Debug/net5.0/C# Cook API.csproj.AssemblyReference.cache
+/Users/dominicbishop/Desktop/C# Cook API 2/obj/Debug/net5.0/C# Cook API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominicbishop/Desktop/C# Cook API 2/obj/Debug/net5.0/C# Cook API.AssemblyInfoInputs.cache
+/Users/dominicbishop/Desktop/C# Cook API 2/obj/Debug/net5.0/C# Cook API.AssemblyInfo.cs
+/Users/dominicbishop/Desktop/C# Cook API 2/obj/Debug/net5.0/C# Cook API.csproj.CoreCompileInputs.cache
+/Users/dominicbishop/Desktop/C# Cook API 2/obj/Debug/net5.0/C# Cook API.MvcApplicationPartsAssemblyInfo.cs
+/Users/dominicbishop/Desktop/C# Cook API 2/obj/Debug/net5.0/C# Cook API.MvcApplicationPartsAssemblyInfo.cache
+/Users/dominicbishop/Desktop/C# Cook API 2/obj/Debug/net5.0/staticwebassets/C# Cook API.StaticWebAssets.Manifest.cache
+/Users/dominicbishop/Desktop/C# Cook API 2/obj/Debug/net5.0/staticwebassets/C# Cook API.StaticWebAssets.xml
+/Users/dominicbishop/Desktop/C# Cook API 2/obj/Debug/net5.0/scopedcss/bundle/C# Cook API.styles.css
+/Users/dominicbishop/Desktop/C# Cook API 2/obj/Debug/net5.0/C# Cook API.RazorTargetAssemblyInfo.cache
+/Users/dominicbishop/Desktop/C# Cook API 2/obj/Debug/net5.0/C# Cook API.csproj.CopyComplete
+/Users/dominicbishop/Desktop/C# Cook API 2/obj/Debug/net5.0/C# Cook API.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/obj/Debug/net5.0/ref/C# Cook API.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/obj/Debug/net5.0/C# Cook API.pdb
+/Users/dominicbishop/Desktop/C# Cook API 2/obj/Debug/net5.0/C# Cook API.genruntimeconfig.cache
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/frontend/package-lock.json
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/frontend/package.json
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/frontend/public/manifest.json
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/package-lock.json
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/System.Web.Cors.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/System.Net.Http.Formatting.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/System.Web.Http.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/System.Web.Http.Cors.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/dominicbishop/Desktop/C# Cook API 2/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/appsettings.Development.json
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/appsettings.json
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/package-lock.json
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/C# Cook API.deps.json
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/C# Cook API.runtimeconfig.json
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/C# Cook API.runtimeconfig.dev.json
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/C# Cook API.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/ref/C# Cook API.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/C# Cook API.pdb
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/Humanizer.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/System.Web.Cors.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/System.Net.Http.Formatting.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/System.Web.Http.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/System.Web.Http.Cors.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/obj/Debug/net5.0/C# Cook API.csproj.AssemblyReference.cache
+/Users/dominicbishop/Desktop/Postcode search/backend/obj/Debug/net5.0/C# Cook API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominicbishop/Desktop/Postcode search/backend/obj/Debug/net5.0/C# Cook API.AssemblyInfoInputs.cache
+/Users/dominicbishop/Desktop/Postcode search/backend/obj/Debug/net5.0/C# Cook API.AssemblyInfo.cs
+/Users/dominicbishop/Desktop/Postcode search/backend/obj/Debug/net5.0/C# Cook API.csproj.CoreCompileInputs.cache
+/Users/dominicbishop/Desktop/Postcode search/backend/obj/Debug/net5.0/C# Cook API.MvcApplicationPartsAssemblyInfo.cs
+/Users/dominicbishop/Desktop/Postcode search/backend/obj/Debug/net5.0/C# Cook API.MvcApplicationPartsAssemblyInfo.cache
+/Users/dominicbishop/Desktop/Postcode search/backend/obj/Debug/net5.0/staticwebassets/C# Cook API.StaticWebAssets.Manifest.cache
+/Users/dominicbishop/Desktop/Postcode search/backend/obj/Debug/net5.0/staticwebassets/C# Cook API.StaticWebAssets.xml
+/Users/dominicbishop/Desktop/Postcode search/backend/obj/Debug/net5.0/scopedcss/bundle/C# Cook API.styles.css
+/Users/dominicbishop/Desktop/Postcode search/backend/obj/Debug/net5.0/C# Cook API.RazorTargetAssemblyInfo.cache
+/Users/dominicbishop/Desktop/Postcode search/backend/obj/Debug/net5.0/C# Cook API.csproj.CopyComplete
+/Users/dominicbishop/Desktop/Postcode search/backend/obj/Debug/net5.0/C# Cook API.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/obj/Debug/net5.0/ref/C# Cook API.dll
+/Users/dominicbishop/Desktop/Postcode search/backend/obj/Debug/net5.0/C# Cook API.pdb
+/Users/dominicbishop/Desktop/Postcode search/backend/obj/Debug/net5.0/C# Cook API.genruntimeconfig.cache
