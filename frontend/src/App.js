@@ -6,13 +6,10 @@ function App() {
   const [postcode, setPostcode] = useState("");
   const [results, setResults] = useState([]);
   const [error, setError] = useState("");
-  console.log(postcode);
-  console.log(results, "results");
 
   const api = `http://localhost:5000/postcode?postcode=${postcode}`;
 
   const submit = async (event) => {
-    console.log(api, "api");
     setResults("");
     event.preventDefault();
     if (!postcode) {
@@ -22,7 +19,6 @@ function App() {
       axios
         .get(api)
         .then((res) => {
-          console.log(res.data);
           setResults(res.data);
         })
         .catch((error) => {
